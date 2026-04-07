@@ -1,6 +1,7 @@
 # RBR-PageIndex-dev
 
 **Reasoning-Based Retrieval meets classic RAG — side by side, in your browser.**
+- [LIVE DEMO HERE](https://scuffedepoch.com/pageindex-demo/) OpenAI API key required (for comparison)
 
 RBR-PageIndex-dev is a client-side React/Vite/TypeScript application that implements [PageIndex](https://github.com/VectifyAI/PageIndex)-style reasoning-based document retrieval alongside traditional vector/RAG search. Upload a PDF or markdown file, and the app builds both a hierarchical PageIndex tree and a vector embedding index. Then query with either system — or both simultaneously — and see exactly where reasoning-based retrieval succeeds and where vector similarity falls short.
 
